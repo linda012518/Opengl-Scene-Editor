@@ -3,3 +3,4 @@
 # 工具：vs2015 qt5.9.6
 # 第三方工具库：glew freeimage qtproperty rapidxml
 # 可轻松移植 mac/linux 平台
+![image](https://github.com/linda012518/Opengl-Render-Engine/blob/master/4.png)
